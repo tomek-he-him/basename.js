@@ -1,5 +1,5 @@
 { "name": "basename"
-, "version": "0.1.1"
+, "version": "0.1.2"
 , "description": "Get the bare name of a file, without its extension."
 , "license": "MIT"
 
