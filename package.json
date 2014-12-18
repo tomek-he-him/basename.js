@@ -1,6 +1,6 @@
 { "name": "basename"
 , "version": "0.1.0"
-, "description": "Get the bare filename without an extension."
+, "description": "Get the bare name of a file, without its extension."
 , "license": "MIT"
 
 , "contributors":
